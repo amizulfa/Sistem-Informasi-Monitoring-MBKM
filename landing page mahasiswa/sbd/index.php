@@ -17,7 +17,7 @@ include "config/connect.php"
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>TimesTwo</title>
+  <title>KampusMerdeka</title>
 
   <!-- bootstrap core css -->
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
@@ -37,9 +37,9 @@ include "config/connect.php"
         <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="index.php">
             <h3>
-              Times
+              Kampus
             </h3>
-            <span> Two</span>
+            <span> Merdeka</span>
           </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -223,7 +223,7 @@ include "config/connect.php"
         <div class="col-md-3">
           <div class="info_menu">
             <h5>
-              QUICK LINKS
+              NAVIGASI
             </h5>
             <ul class="navbar-nav  ">
               <li class="nav-item active">
@@ -241,12 +241,12 @@ include "config/connect.php"
         <div class="col-md-3">
           <div class="info_course">
             <h5>
-              TOP RATED COURSE
+              TENTANG MBKM
             </h5>
             <p>
-              There are many variations of passages of Lorem Ipsum available,
-              but the majority have suffered alteration in some form, by
-              injected humou
+              Kampus Merdeka (MBKM) adalah program yang dicanangkan oleh Menteri Pendidikan 
+              dan Kebudayaan yang bertujuan mendorong mahasiswa untu menguasai berbagai 
+              keilmuan untuk bekal memasuki dunia kerja.
             </p>
           </div>
         </div>
@@ -254,25 +254,19 @@ include "config/connect.php"
         <div class="col-md-5 offset-md-1">
           <div class="info_news">
             <h5>
-              FOR ANY QUERY, PLEASE WRITE TO US
+              HUBUNGI KAMI
             </h5>
             <div class="info_contact">
               <a href="">
-                Location
+                Jl. Jenderal Sudirman, Senayan, Jakarta 10270
               </a>
               <a href="">
-                demo@gmail.com
+                Pusat Panggilan ULT DIKTI 126
               </a>
               <a href="">
-                Call : +01 1234567890
+                Telepon: 021 57946104
               </a>
             </div>
-            <form action="">
-              <input type="text" placeholder="Enter Your email" />
-              <button>
-                Subscribe
-              </button>
-            </form>
           </div>
         </div>
       </div>
